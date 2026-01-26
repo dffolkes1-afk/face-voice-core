@@ -1,0 +1,29 @@
+# face-voice-core
+FACE Voice is a voice-first AI system for real-time performance feedback, presence amplification, and autonomous creator training. It powers the AI Performance Mirror, Unseen Audience, and Vibe-Curation Engine that helps DJs, artists, and speakers reach elite performance without platforms or middlemen.
+
+face-voice-core/
+│
+├── README.md
+│
+├── docs/
+│   ├── face_blueprint.md
+│   ├── voice_philosophy.md
+│   ├── director_rules.md
+│   └── system_boundaries.md
+│
+├── mirror/
+│   ├── mirror_definition.md
+│   ├── vibe_states.md
+│   └── feedback_logic.md
+│
+├── unseen_audience/
+│   ├── audience_definition.md
+│   ├── necessary_response.md
+│   └── crowd_profiles.md
+│
+├── rotation/
+│   ├── rotation_rules.md
+│   └── verification_logic.md
+│
+└── jots/
+    └── raw_notes.md
